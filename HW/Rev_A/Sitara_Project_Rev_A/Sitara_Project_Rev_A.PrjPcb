@@ -92,7 +92,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YLDJKAFS
 
 [Document4]
-DocumentPath=Sitara_Main_Power.SchDoc
+DocumentPath=Sitara_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -109,7 +109,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GTMIADIZ
 
 [Document5]
-DocumentPath=Sitara_IO_Power.SchDoc
+DocumentPath=Sitara DDR AUX Part.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
