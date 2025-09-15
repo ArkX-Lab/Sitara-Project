@@ -109,7 +109,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GTMIADIZ
 
 [Document5]
-DocumentPath=Sitara DDR AUX Part.SchDoc
+DocumentPath=Sitara_AUX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,6 +124,125 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGKLUMWF
+
+[Document6]
+DocumentPath=Sitara_DDR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IMQETIOB
+
+[Document7]
+DocumentPath=DDR3L_Module.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RPIYPGUB
+
+[Document8]
+DocumentPath=Sitara_IO_Bank_123.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JBAUCVAR
+
+[Document9]
+DocumentPath=Sitara_IO_Bank_45.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KDPLWBDN
+
+[Document10]
+DocumentPath=Sitara_IO_Bank_6.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YAUITWZW
+
+[Document11]
+DocumentPath=eMMC_Module.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RLWQVXCW
+
+[Document12]
+DocumentPath=Sch_Design_Check_List.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TUWVAAQV
 
 [Configuration1]
 Name=Sources
@@ -1049,6 +1168,306 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Arkx.IntLib
+ComponentDesignItemID0=CAP_100nF/16V/1005
+ComponentSymbolReference0=CAP_100nF/16V/1005
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Arkx.IntLib
+ComponentDesignItemID1=CAP_100nF/25V/0603
+ComponentSymbolReference1=CAP_100nF/25V/0603
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Arkx.IntLib
+ComponentDesignItemID2=CAP_100nF/50V/1005
+ComponentSymbolReference2=CAP_100nF/50V/1005
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Arkx.IntLib
+ComponentDesignItemID3=CAP_100nF/50V/1608
+ComponentSymbolReference3=CAP_100nF/50V/1608
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Arkx.IntLib
+ComponentDesignItemID4=CAP_10uF/25V/1608
+ComponentSymbolReference4=CAP_10uF/25V/1608
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Arkx.IntLib
+ComponentDesignItemID5=CAP_1nF/50V/1005
+ComponentSymbolReference5=CAP_1nF/50V/1005
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Arkx.IntLib
+ComponentDesignItemID6=CAP_1uF/50V/1608
+ComponentSymbolReference6=CAP_1uF/50V/1608
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Arkx.IntLib
+ComponentDesignItemID7=CAP_2.2uF/16V/1608
+ComponentSymbolReference7=CAP_2.2uF/16V/1608
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Arkx.IntLib
+ComponentDesignItemID8=CAP_22uF/25V/2012
+ComponentSymbolReference8=CAP_22uF/25V/2012
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Arkx.IntLib
+ComponentDesignItemID9=CAP_4.7uF/10V/1005
+ComponentSymbolReference9=CAP_4.7uF/10V/1005
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Arkx.IntLib
+ComponentDesignItemID10=CAP_4.7uF/16V/1608
+ComponentSymbolReference10=CAP_4.7uF/16V/1608
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Arkx.IntLib
+ComponentDesignItemID11=CAP_470pF/50V/1608
+ComponentSymbolReference11=CAP_470pF/50V/1608
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Arkx.IntLib
+ComponentDesignItemID12=CAP_47nF/16V/0603
+ComponentSymbolReference12=CAP_47nF/16V/0603
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Arkx.IntLib
+ComponentDesignItemID13=CAP_NC_100nF/50V/1608
+ComponentSymbolReference13=CAP_NC_100nF/50V/1608
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Arkx.IntLib
+ComponentDesignItemID14=CON_DC-Jack
+ComponentSymbolReference14=CON_DC-Jack
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Arkx.IntLib
+ComponentDesignItemID15=CON_USB2.0-Mini-B
+ComponentSymbolReference15=CON_USB2.0-Mini-B
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=Arkx.IntLib
+ComponentDesignItemID16=DIO_TVS_TPD4S012DRYR
+ComponentSymbolReference16=DIO_TVS_TPD4S012DRYR
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=Arkx.IntLib
+ComponentDesignItemID17=FB_BLM21PG121SN1D
+ComponentSymbolReference17=FB_BLM21PG121SN1D
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=Arkx.IntLib
+ComponentDesignItemID18=IC_BUF_SN74LVC1G07DBVT
+ComponentSymbolReference18=IC_BUF_SN74LVC1G07DBVT
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=Arkx.IntLib
+ComponentDesignItemID19=IC_MEM_DDR3L_MT41K256M16TW-107 IT:P
+ComponentSymbolReference19=IC_MEM_DDR3L_MT41K256M16TW-107 IT:P
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=Arkx.IntLib
+ComponentDesignItemID20=IC_PMIC_TPS65217DRSLR
+ComponentSymbolReference20=IC_PMIC_TPS65217DRSLR
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=Arkx.IntLib
+ComponentDesignItemID21=IC_REG_MIC5209YM-TR
+ComponentSymbolReference21=IC_REG_MIC5209YM-TR
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=Arkx.IntLib
+ComponentDesignItemID22=IC_REG_VTT_BD3539FVM-TR
+ComponentSymbolReference22=IC_REG_VTT_BD3539FVM-TR
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=Arkx.IntLib
+ComponentDesignItemID23=IC_SOC_AM3358BZCZ100
+ComponentSymbolReference23=IC_SOC_AM3358BZCZ100
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=Arkx.IntLib
+ComponentDesignItemID24=IND_LQM2HPN2R2MG0L
+ComponentSymbolReference24=IND_LQM2HPN2R2MG0L
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=Arkx.IntLib
+ComponentDesignItemID25=LED_MHT170RGBCT(GREEN)
+ComponentSymbolReference25=LED_MHT170RGBCT(GREEN)
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=Arkx.IntLib
+ComponentDesignItemID26=OSC_SX2M24.000M20F30TNN(24MHz)
+ComponentSymbolReference26=OSC_SX2M24.000M20F30TNN(24MHz)
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=Arkx.IntLib
+ComponentDesignItemID27=OSC_SX2M32.768KM20F30TNN(32.768kHz)
+ComponentSymbolReference27=OSC_SX2M32.768KM20F30TNN(32.768kHz)
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name And Type
+ComponentLibraryIdentifier28=Arkx.IntLib
+ComponentDesignItemID28=RES_0R/1005/62.5mW
+ComponentSymbolReference28=RES_0R/1005/62.5mW
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name And Type
+ComponentLibraryIdentifier29=Arkx.IntLib
+ComponentDesignItemID29=RES_0R/1608/0.1W
+ComponentSymbolReference29=RES_0R/1608/0.1W
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name And Type
+ComponentLibraryIdentifier30=Arkx.IntLib
+ComponentDesignItemID30=RES_0R/2012/0.125W
+ComponentSymbolReference30=RES_0R/2012/0.125W
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Library Name And Type
+ComponentLibraryIdentifier31=Arkx.IntLib
+ComponentDesignItemID31=RES_0R/3216/0.25W
+ComponentSymbolReference31=RES_0R/3216/0.25W
+ComponentUpdate31=1
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Library Name And Type
+ComponentLibraryIdentifier32=Arkx.IntLib
+ComponentDesignItemID32=RES_1.5K/2012/0.125W
+ComponentSymbolReference32=RES_1.5K/2012/0.125W
+ComponentUpdate32=1
+ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Library Name And Type
+ComponentLibraryIdentifier33=Arkx.IntLib
+ComponentDesignItemID33=RES_100K/1608/0.1W
+ComponentSymbolReference33=RES_100K/1608/0.1W
+ComponentUpdate33=1
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Library Name And Type
+ComponentLibraryIdentifier34=Arkx.IntLib
+ComponentDesignItemID34=RES_100R/1005/62.5mW
+ComponentSymbolReference34=RES_100R/1005/62.5mW
+ComponentUpdate34=1
+ComponentIsDeviceSheet34=0
+ComponentLibIdentifierKind35=Library Name And Type
+ComponentLibraryIdentifier35=Arkx.IntLib
+ComponentDesignItemID35=RES_10K/1608/0.1W
+ComponentSymbolReference35=RES_10K/1608/0.1W
+ComponentUpdate35=1
+ComponentIsDeviceSheet35=0
+ComponentLibIdentifierKind36=Library Name And Type
+ComponentLibraryIdentifier36=Arkx.IntLib
+ComponentDesignItemID36=RES_1K/1005/62.5mW
+ComponentSymbolReference36=RES_1K/1005/62.5mW
+ComponentUpdate36=1
+ComponentIsDeviceSheet36=0
+ComponentLibIdentifierKind37=Library Name And Type
+ComponentLibraryIdentifier37=Arkx.IntLib
+ComponentDesignItemID37=RES_1M/1005/62.5mW
+ComponentSymbolReference37=RES_1M/1005/62.5mW
+ComponentUpdate37=1
+ComponentIsDeviceSheet37=0
+ComponentLibIdentifierKind38=Library Name And Type
+ComponentLibraryIdentifier38=Arkx.IntLib
+ComponentDesignItemID38=RES_200K/1608/0.1W
+ComponentSymbolReference38=RES_200K/1608/0.1W
+ComponentUpdate38=1
+ComponentIsDeviceSheet38=0
+ComponentLibIdentifierKind39=Library Name And Type
+ComponentLibraryIdentifier39=Arkx.IntLib
+ComponentDesignItemID39=RES_330K/1608/0.1W
+ComponentSymbolReference39=RES_330K/1608/0.1W
+ComponentUpdate39=1
+ComponentIsDeviceSheet39=0
+ComponentLibIdentifierKind40=Library Name And Type
+ComponentLibraryIdentifier40=Arkx.IntLib
+ComponentDesignItemID40=RES_4.7K/1608/0.1W
+ComponentSymbolReference40=RES_4.7K/1608/0.1W
+ComponentUpdate40=1
+ComponentIsDeviceSheet40=0
+ComponentLibIdentifierKind41=Library Name And Type
+ComponentLibraryIdentifier41=Arkx.IntLib
+ComponentDesignItemID41=RES_49.9R/1005/62.5mW
+ComponentSymbolReference41=RES_49.9R/1005/62.5mW
+ComponentUpdate41=1
+ComponentIsDeviceSheet41=0
+ComponentLibIdentifierKind42=Library Name And Type
+ComponentLibraryIdentifier42=Arkx.IntLib
+ComponentDesignItemID42=RES_510R/1608/0.1W
+ComponentSymbolReference42=RES_510R/1608/0.1W
+ComponentUpdate42=1
+ComponentIsDeviceSheet42=0
+ComponentLibIdentifierKind43=Library Name And Type
+ComponentLibraryIdentifier43=Arkx.IntLib
+ComponentDesignItemID43=RES_NC_0R/1608/0.1W
+ComponentSymbolReference43=RES_NC_0R/1608/0.1W
+ComponentUpdate43=1
+ComponentIsDeviceSheet43=0
+ComponentLibIdentifierKind44=Library Name And Type
+ComponentLibraryIdentifier44=Arkx.IntLib
+ComponentDesignItemID44=RES_NC_10K/1608/0.1W
+ComponentSymbolReference44=RES_NC_10K/1608/0.1W
+ComponentUpdate44=1
+ComponentIsDeviceSheet44=0
+ComponentLibIdentifierKind45=Library Name And Type
+ComponentLibraryIdentifier45=Arkx.IntLib
+ComponentDesignItemID45=SW_K2-1102SP-C4SC-04(2P)
+ComponentSymbolReference45=SW_K2-1102SP-C4SC-04(2P)
+ComponentUpdate45=1
+ComponentIsDeviceSheet45=0
+ComponentLibIdentifierKind46=Library Name And Type
+ComponentLibraryIdentifier46=Arkx.IntLib
+ComponentDesignItemID46=TP_CIRCLE
+ComponentSymbolReference46=TP_CIRCLE
+ComponentUpdate46=1
+ComponentIsDeviceSheet46=0
+ComponentLibIdentifierKind47=Library Name And Type
+ComponentLibraryIdentifier47=Arkx.IntLib
+ComponentDesignItemID47=TP_HOLE(0.7MM)
+ComponentSymbolReference47=TP_HOLE(0.7MM)
+ComponentUpdate47=1
+ComponentIsDeviceSheet47=0
+ComponentLibIdentifierKind48=Library Name And Type
+ComponentLibraryIdentifier48=Arkx.IntLib
+ComponentDesignItemID48=TP_HOLE(0.8MM)
+ComponentSymbolReference48=TP_HOLE(0.8MM)
+ComponentUpdate48=1
+ComponentIsDeviceSheet48=0
+ComponentLibIdentifierKind49=Library Name And Type
+ComponentLibraryIdentifier49=Arkx.IntLib
+ComponentDesignItemID49=TP_HOLE(0.9MM)
+ComponentSymbolReference49=TP_HOLE(0.9MM)
+ComponentUpdate49=1
+ComponentIsDeviceSheet49=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1062,12 +1481,177 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=ComponentLink1Description
+ParameterUpdate2=1
+ParameterName3=ComponentLink1URL
+ParameterUpdate3=1
+ParameterName4=Description
+ParameterUpdate4=1
+ParameterName5=JLCPCB Part Type
+ParameterUpdate5=1
+ParameterName6=LCSC Part #
+ParameterUpdate6=1
+ParameterName7=Library Reference
+ParameterUpdate7=1
+ParameterName8=Power Rating
+ParameterUpdate8=1
+ParameterName9=Precision
+ParameterUpdate9=1
+ParameterName10=Size
+ParameterUpdate10=1
+ParameterName11=Value
+ParameterUpdate11=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=BGA324C80P18X18_1500X1500X140
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=CAP 0603 (0201_INCH)
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=CAP 1005 (0402_INCH)
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=CAP 1608 (0603_INCH)
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=CAP 1608 (0603_INCH)/NC
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=CAP 2012 (0805_INCH)
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=CON_DC-JACK
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=CON_USB2.0-Mini-B (UX60SC-MB-5ST(80))
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=FB 2012 (0805_inch)
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=IC_MEM_DDR3L_MT41K256M16TW-107 IT:P
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=IC_MSOP-8
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=IC_SOIC-8 (4.90x3.90mm)
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=IC_SON-6
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=IC_VQFN-48(6x6)
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=IND_LQM2HPN2R2MG0L
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=LED MHT170RGBCT (GREEN)
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=OSC SMD_2.5x2.0 (SCTF)
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=RES 1005 (0402_inch)
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=RES 1608 (0603_inch)
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=RES 1608 (0603_inch)/NC
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=RES 2012 (0805_inch)
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=RES 3216 (1206_inch)
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=SOT-23-5 (TI DBV PACKAGE)
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=SW K2-1102SP-C4SC-04
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=TP Circle
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=TP_HOLE(0.7MM)
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=TP_HOLE(0.8MM)
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=TP_HOLE(0.9MM)
+ModelUpdate27=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=DDR_A0|NetColor=$00FF0099
+Net2=NetName=DDR_A1|NetColor=$00FF0099
+Net3=NetName=DDR_A10|NetColor=$00FF0099
+Net4=NetName=DDR_A11|NetColor=$00FF0099
+Net5=NetName=DDR_A12|NetColor=$00FF0099
+Net6=NetName=DDR_A13|NetColor=$00FF0099
+Net7=NetName=DDR_A14|NetColor=$00FF0099
+Net8=NetName=DDR_A15|NetColor=$00FF0099
+Net9=NetName=DDR_A2|NetColor=$00FF0099
+Net10=NetName=DDR_A3|NetColor=$00FF0099
+Net11=NetName=DDR_A4|NetColor=$00FF0099
+Net12=NetName=DDR_A5|NetColor=$00FF0099
+Net13=NetName=DDR_A6|NetColor=$00FF0099
+Net14=NetName=DDR_A7|NetColor=$00FF0099
+Net15=NetName=DDR_A8|NetColor=$00FF0099
+Net16=NetName=DDR_A9|NetColor=$00FF0099
+Net17=NetName=DDR_BA0|NetColor=$00FF0099
+Net18=NetName=DDR_BA1|NetColor=$00FF0099
+Net19=NetName=DDR_BA2|NetColor=$00FF0099
+Net20=NetName=DDR_CK_N|NetColor=$00FF0099
+Net21=NetName=DDR_CK_P|NetColor=$00FF0099
+Net22=NetName=DDR_CKE|NetColor=$00FF0099
+Net23=NetName=DDR_DQ0|NetColor=clLime
+Net24=NetName=DDR_DQ1|NetColor=clLime
+Net25=NetName=DDR_DQ10|NetColor=clYellow
+Net26=NetName=DDR_DQ11|NetColor=clYellow
+Net27=NetName=DDR_DQ12|NetColor=clYellow
+Net28=NetName=DDR_DQ13|NetColor=clYellow
+Net29=NetName=DDR_DQ14|NetColor=clYellow
+Net30=NetName=DDR_DQ15|NetColor=clYellow
+Net31=NetName=DDR_DQ2|NetColor=clLime
+Net32=NetName=DDR_DQ3|NetColor=clLime
+Net33=NetName=DDR_DQ4|NetColor=clLime
+Net34=NetName=DDR_DQ5|NetColor=clLime
+Net35=NetName=DDR_DQ6|NetColor=clLime
+Net36=NetName=DDR_DQ7|NetColor=clLime
+Net37=NetName=DDR_DQ8|NetColor=clYellow
+Net38=NetName=DDR_DQ9|NetColor=clYellow
+Net39=NetName=DDR_DQM0|NetColor=clLime
+Net40=NetName=DDR_DQM1|NetColor=clYellow
+Net41=NetName=DDR_DQS0_N|NetColor=clLime
+Net42=NetName=DDR_DQS0_P|NetColor=clLime
+Net43=NetName=DDR_DQS1_N|NetColor=clYellow
+Net44=NetName=DDR_DQS1_P|NetColor=clYellow
+Net45=NetName=DDR_NCAS|NetColor=$00FF0099
+Net46=NetName=DDR_NCS|NetColor=$00FF0099
+Net47=NetName=DDR_NRAS|NetColor=$00FF0099
+Net48=NetName=DDR_NRST|NetColor=$00FF0099
+Net49=NetName=DDR_NWE|NetColor=$00FF0099
+Net50=NetName=DDR_ODT|NetColor=$00FF0099
+Net51=NetName=DGND|NetColor=$00134E27
+Net52=NetName=DP1.35V_DDR|NetColor=$000099FF
+Net53=NetName=DP5VS|NetColor=clRed
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
