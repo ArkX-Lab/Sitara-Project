@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for Sitara_Project_Rev_A
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -140,26 +140,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IMQETIOB
+DocumentUniqueId=UVCDTUAU
 
 [Document7]
-DocumentPath=DDR3L_Module.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RPIYPGUB
-
-[Document8]
 DocumentPath=Sitara_IO_Bank_123.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBAUCVAR
 
-[Document9]
+[Document8]
 DocumentPath=Sitara_IO_Bank_45.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDPLWBDN
 
-[Document10]
+[Document9]
 DocumentPath=Sitara_IO_Bank_6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YAUITWZW
 
-[Document11]
+[Document10]
 DocumentPath=eMMC_Module.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLWQVXCW
 
-[Document12]
+[Document11]
 DocumentPath=Sch_Design_Check_List.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,6 +227,57 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUWVAAQV
 
+[Document12]
+DocumentPath=DDR3L_Module.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RPIYPGUB
+
+[Document13]
+DocumentPath=Sitara_DDR_Old.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IMQETIOB
+
+[Document14]
+DocumentPath=Sitara_Project_Rev_A.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -253,6 +287,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for Sitara_Project_Rev_A
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -363,7 +436,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=OneNote(데스크톱) - 보호됨
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
