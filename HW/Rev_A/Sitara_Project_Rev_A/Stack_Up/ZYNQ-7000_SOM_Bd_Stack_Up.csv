@@ -1,0 +1,33 @@
+﻿Board Layer Stack
+Number,Name,Type,Manufacturer,Material,Process,Thickness (mm),Weight (oz),Dk,Orientation,Copper Orientation,Description,Constructions,Resin (%),Frequency (GHz),GlassTransTemp (°C)
+,Top Overlay,Overlay,,,,,,,,,,,,,
+,Top Mask,Solder Mask,,Solder Resist,,0.015,,3.8,,,,,,,
+1,L1 (Sig),Signal,,Cu,,0.035,1,,Top,Above,,,,,
+,Dielectric 1,Prepreg,,1080,,0.0764,,3.91,,,,,,,
+2,L2 (GND),Signal,,Cu,,0.0152,0.5,,Not allowed,Above,,,,,
+,Core 1,Core,,FR-4,,0.1,,4.6,,,,,,,
+3,L3 (PWR),Signal,,Cu,,0.0152,0.5,,Not allowed,Below,,,,,
+,Dielectric 2,Prepreg,Altium Designer,7628,,0.2104,,4.4,,,,1080,62,1,180
+,Dielectric 3,Prepreg,,1080,,0.0764,,3.91,,,,,,,
+4,L4 (Sig),Signal,,Cu,,0.0152,0.5,,Not allowed,Above,,,,,
+,Core 2,Core,,FR-4,,0.1,,4.6,,,,,,,
+5,L5 (GND),Signal,Altium Designer,Cu,ED,0.0152,0.5,,Not allowed,Below,Copper Foil,,,,
+,Dielectric 4,Prepreg,Altium Designer,1080,,0.0764,,3.91,,,,1080,62,1,180
+,Dielectric 5,Prepreg,Altium Designer,7628,,0.2104,,4.4,,,,1080,62,1,180
+6,L6 (Sig),Signal,Altium Designer,Cu,ED,0.0152,0.5,,Not allowed,Above,Copper Foil,,,,
+,Core 3,Core,Altium Designer,FR-4,,0.1,,4.6,,,FR4,1-2116,47,1,180
+7,L7 (GND),Signal,,Cu,,0.0152,0.5,,Not allowed,Below,,,,,
+,Dielectric 6,Prepreg,,1080,,0.0764,,3.91,,,,,,,
+8,L8 (Sig),Signal,,Cu,,0.035,1,,Bottom,Below,,,,,
+,Bottom Mask,Solder Mask,,Solder Resist,,0.015,,3.8,,,,,,,
+,Bottom Overlay,Overlay,,,,,,,,,,,,,
+
+
+No impedances
+
+Via types
+#,Name,Type,Layers,Stack
+1,Thru 1:8,Thru,L1 (Sig)-L8 (Sig),Board Layer Stack
+
+
+No back drills
