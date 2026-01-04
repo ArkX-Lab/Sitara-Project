@@ -1,0 +1,10 @@
+Record=TopLevelDocument|FileName=Index.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Index.SchDoc|FileName=Overview.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Index.SchDoc|FileName=Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Index.SchDoc|FileName=Sitara_AUX.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Index.SchDoc|FileName=Sitara_Connectors.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Index.SchDoc|FileName=Sitara_DDR.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Index.SchDoc|FileName=Sitara_IO_Bank_6.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Index.SchDoc|FileName=Sitara_IO_Bank_45.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Index.SchDoc|FileName=Sitara_IO_Bank_123.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Index.SchDoc|FileName=Sitara_Power.SchDoc|SheetNumber=4
